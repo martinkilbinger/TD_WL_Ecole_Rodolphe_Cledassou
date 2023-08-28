@@ -3,6 +3,12 @@ TDs de weak lensing de l'école d'été Euclid - Rodolphe Clédassou
 
 ## Installation
 
+First, downoad this repository by typing
+```bash
+git clone git@github.com:martinkilbinger/TD_WL_Ecole_Rodolphe_Cledassou.git
+```
+(The download link is also available under the green button on the top right.)
+
 There are several options to install the few python libraries required to run the notebooks.
 
 ### Option 1: With `pip`.
